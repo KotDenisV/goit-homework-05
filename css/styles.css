@@ -494,6 +494,7 @@ img {
   height: 100%;
   position: fixed;
   top: 0;
+  background-color: rgba(46, 47, 66, 0.7);
 }
 
 .modal {
