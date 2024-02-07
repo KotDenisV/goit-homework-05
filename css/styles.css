@@ -701,12 +701,12 @@ img {
   color: rgba(46, 47, 66, 0.4);
 }
 
-/* .modal-checkbox {
+.modal-checkbox {
   display: flex;
   gap: 8px;
   margin-bottom: 24px;
-  border-radius: 2px;
-} */
+  /* border-radius: 2px; */
+}
 
 .checkbox-span {
   width: 16px;
