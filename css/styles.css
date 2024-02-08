@@ -474,6 +474,7 @@ img {
   align-items: center;
   justify-content: start;
   gap: 16px;
+  margin-right: 80px;
 }
 
 .foetr-icon-list .icon-link:hover,
@@ -500,11 +501,6 @@ img {
   gap: 24px;
 }
 
-/* .subscribe-lable {
-  display: block;
-  margin-bottom: 16px;
-} */
-
 .subscribe-input {
   padding-left: 16px;
   width: 264px;
@@ -516,7 +512,7 @@ img {
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
   color: #fff;
   font-size: 12px;
-  line-height: 1.5;
+  line-height: 2;
   letter-spacing: 0.04em;
 }
 
@@ -540,12 +536,11 @@ img {
   height: 40px;
   background-color: #4d5ae5;
   border-radius: 4px;
-  margin-top: 19px;
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   color: #fff;
   font-weight: 500;
-  line-height: 2;
+  line-height: 1.5;
   letter-spacing: 0.04em;
   cursor: pointer;
   border: none;
